@@ -1,1 +1,7 @@
-asd
+Example usage
+===
+
+.. autosummary::
+   :toctree: generated
+
+   CircPrime
