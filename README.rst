@@ -1,2 +1,2 @@
-CircPrimce documentation
+CircPrime documentation
 =======================================
