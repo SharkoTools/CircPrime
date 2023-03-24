@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CircPrime'
+copyright = '2023, Sharko'
+author = 'Sharko'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.5'
+version = '0.5.0'
 
 # -- General configuration
 
