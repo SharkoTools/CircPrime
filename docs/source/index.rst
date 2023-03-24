@@ -12,14 +12,15 @@ CircPrime generates FASTA files using circRNA coordinates and reference genome f
 
 .. image:: images/Figure_2.png
 
-Check out the :doc:`usage` section for further information
+Check out the :doc:`Example usage` and :doc:`EParametrs` section for further information
 
 Contents
 --------
 
 .. toctree::
 
-   usage
+   Example usage
+   Parametrs
    api
 
 .. note::
