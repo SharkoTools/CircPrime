@@ -12,7 +12,7 @@ CircPrime generates FASTA files using circRNA coordinates and reference genome f
 
 .. image:: images/Figure_2.png
 
-Check out the :doc:`Example usage` and :doc:`EParametrs` section for further information
+Check out the :doc:`Example usage` and :doc:`Parametrs` section for further information
 
 Contents
 --------
