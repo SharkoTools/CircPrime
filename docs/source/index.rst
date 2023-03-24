@@ -19,7 +19,7 @@ Contents
 
 .. toctree::
 
-   Example usage
+   usage
    Parametrs
    api
 
