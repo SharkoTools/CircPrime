@@ -1,5 +1,5 @@
 Example usage
-===
+
 
 .. autosummary::
    :toctree: generated
