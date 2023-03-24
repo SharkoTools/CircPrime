@@ -1,5 +1,5 @@
 ===================================
-CircPrime documentation: tool for circular RNA primer development
+CircPrime: tool for circular RNA primer development
 ===================================
 
 **CircPrime** is web-based platform, providing a user- friendly solution for DNA primer design and thermocycling conditions for circRNA identification with routine PCR methods.
@@ -7,6 +7,10 @@ CircPrime documentation: tool for circular RNA primer development
 .. image:: images/Figure_1.png
 
 The user-friendly CircPrime tool for circular RNA primer development is written in Python 3 and implemented on a web-based platform. It is freely available online: http://circprime.elgene.net/. 
+
+CircPrime generates FASTA files using circRNA coordinates and reference genome from the National Center for Biotechnology Information database (NCBI). Then CircPrime extracts junction regions  and develops primer sets with the recommended melting temperature (Tm) for each circRNA in the list (up to 100) using  `Primer3 <https://github.com/primer3-org/primer3>`_
+
+.. image:: images/Figure_2.png
 
 Check out the :doc:`usage` section for further information
 
