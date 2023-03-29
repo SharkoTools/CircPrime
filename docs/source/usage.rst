@@ -15,11 +15,15 @@ As input, you can use outputs of the most popular bioinformatic predictors of ci
 2. **Reference genome**
 
 Choose the reference genome from list.
+
 .. image:: images/genome.png
    :width: 400
 
 .. note:: Currently only the option of automatic detection by ID sequence from the ncbi database is available. The ability to add an custom genome is actively underway and will be available soon.
 
+3. **Additional options**
+
+* See :doc:`Paramets`
 
 .. autosummary::
    :toctree: generated
