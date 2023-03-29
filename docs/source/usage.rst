@@ -23,7 +23,7 @@ Choose the reference genome from list.
 
 3. **Additional options**
 
-* See :doc:`Paramets`
+* See :doc:`Parametrs`
 
 .. autosummary::
    :toctree: generated
