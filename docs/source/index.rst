@@ -18,7 +18,7 @@ Contents
 --------
 
 .. toctree::
-   index
+   About
    usage
    Parametrs
    api
