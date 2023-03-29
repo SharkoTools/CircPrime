@@ -9,7 +9,7 @@ As input, you can use outputs of the most popular bioinformatic predictors of ci
 * From file: Upload the local BED file from your computer
 * Input form: Fill out the form manually or paste the copied data
 
-
+.. image:: ../images/input.png
 
 
 .. autosummary::
