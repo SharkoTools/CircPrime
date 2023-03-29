@@ -23,8 +23,25 @@ Choose the reference genome from list.
 
 3. **Additional options**
 
+If necessary, change the default search parameters
+
 * See :doc:`Parametrs`
 
+4. **Run "Search" button to start**
+
+5. **Ouput**
+
+The output page has two tabs and describes the input settings. 
+The Description tab contains information about the circRNA coordinates.
+
+.. image:: images/description.png
+   :width: 600
+
+The Results tab contains sequences of selected primers and PCR condition development
+
+.. image:: images/pcr.png
+   :width: 600
+   
 .. autosummary::
    :toctree: generated
 
