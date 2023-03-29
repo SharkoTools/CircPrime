@@ -1,5 +1,5 @@
 ===================================
-CircPrime: tool for circular RNA primer development
+About
 ===================================
 
 **CircPrime** is web-based platform, providing a user- friendly solution for DNA primer design and thermocycling conditions for circRNA identification with routine PCR methods.
